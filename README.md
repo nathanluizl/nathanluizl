@@ -1,8 +1,9 @@
 </h1>Ola! meu nome é Nathan tenho 16 anos e moro em Blumenau Santa Catarina 👋</h1>
-
+<br>
 </h1>Estudante de java do ENTRA21📚📚 </h1>
-
+<br>
 </h1>Meu maior sonho é se tornar um bom progamador podendo assim seguir como minha principal profissão 😁</h1>
+
 <!--
 **nathanluizl/nathanluizl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
