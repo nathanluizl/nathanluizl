@@ -1,6 +1,6 @@
 </h1>Ola! meu nome é Nathan tenho 19 anos e moro em Blumenau Santa Catarina 👋</h1>
 <br>
-</h1>Estudante de java do ENTRA21📚📚 </h1>
+</h1>Cursando Sistemas de informação na FURB </h1>
 <br>
 </h1>Meu maior sonho é se tornar um bom progamador podendo assim seguir como minha principal profissão 😁</h1>
 
