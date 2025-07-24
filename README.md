@@ -1,4 +1,4 @@
-</h1>Ola! meu nome é Nathan tenho 19 anos e moro em Blumenau Santa Catarina 👋</h1>
+</h1>Ola! meu nome é Nathan, tenho 19 anos e moro em Blumenau Santa Catarina 👋</h1>
 <br>
 </h1>Cursando Sistemas de informação na FURB </h1>
 <br>
