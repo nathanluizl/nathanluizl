@@ -18,17 +18,15 @@
 <div align="left">
 
   <h3><strong> 💼 Current Work </strong></h3>
-  <p>Assistant Administrative at <b>Senior Sistemas</b> | Blumenau - SC</p>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Senior_Sistemas_logo.png/320px-Senior_Sistemas_logo.png" width="18%" alt="Senior Sistemas logo" />
+
   <h3><strong> 🎓 Education </strong></h3>
-  <p>Studying <b>Information Systems</b> at <b>FURB</b></p>
-  
+  <img src="https://www.furb.br/img/logo-furb.png" width="18%" alt="FURB logo" />
+
   <h3><strong> 💻 My Skills </strong></h3>
   <img src="https://skillicons.dev/icons?i=mysql,java,html,css,javascript" width="30%">
-  
+
   <h3><strong> 📖 Currently Studying </strong></h3>
   <img src="https://skillicons.dev/icons?i=flutter,dart" width="11%">   
 
 </div>
-
-
