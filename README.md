@@ -14,7 +14,7 @@
 <h2></h2>
 <br>
 
-<div align="left">
+<div align="center"> <!-- troquei de left para center -->
 
   <h3><strong> 💼 Current Work </strong></h3>
   <p>Assistant Administrative at <b>Senior Sistemas</b> | Blumenau - SC</p>
