@@ -21,7 +21,7 @@
   <p>Studying <b>Information Systems</b> at <b>FURB</b></p>
   
   <h3><strong> 💻 My Skills </strong></h3>
-  <img src="https://skillicons.dev/icons?i=mysql,java,html,css,javascript" width="30%">
+  <img src="https://skillicons.dev/icons?i=mysql,java,html,css,javascript,java" width="30%">
   
   <h3><strong> 📖 Currently Studying </strong></h3>
   <img src="https://skillicons.dev/icons?i=flutter,dart" width="11%">   
