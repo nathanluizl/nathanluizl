@@ -24,6 +24,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,java,html,css,javascript" width="30%">
   
   <h3><strong> 📖 Currently Studying </strong></h3>
-  <img src="https://skillicons.dev/icons?i=node,react,springboot" width="11%">   
+  <img src="https://skillicons.dev/icons?i=node.js,react.js,Spring Boot" width="11%">   
 
 </div>
